@@ -9,7 +9,7 @@ const Desktop = () => {
           <img
             className="w-[259px] relative h-[49px] object-cover"
             alt=""
-            src="/image-45@2x.png"
+            src="../src/assets/logo.png"
           />
           <div className="flex flex-row items-start justify-start gap-[40px]">
             <div className="relative leading-[140%] capitalize font-medium">
@@ -47,7 +47,7 @@ const Desktop = () => {
           <img
             className="absolute top-[-2px] left-[-9px] w-[1229px] h-[168px] object-cover"
             alt=""
-            src="/image-160@2x.png"
+            src="../src/assets/head.png"
           />
         </div>
       </div>
@@ -89,7 +89,7 @@ const Desktop = () => {
       <img
         className="absolute top-[250px] left-[140px] rounded-[50%] w-[159px] h-[159px] object-cover"
         alt=""
-        src="/ellipse-727@2x.png"
+        src="../src/assets/image.png"
       />
       <div className="absolute top-[332px] left-[1008px] rounded-lg bg-darkolivegreen-100 w-[274px] h-[59px] overflow-hidden flex flex-row items-center justify-center py-3 px-0 box-border text-xl text-white font-inter">
         <div className="relative font-medium">Book an Appointment</div>
@@ -108,9 +108,9 @@ const Desktop = () => {
           <div className="absolute top-[69px] left-[0px] rounded-[21px] bg-white box-border w-[530px] h-[123px] overflow-hidden text-base text-darkolivegreen-100 font-inter border-[1px] border-solid border-gainsboro-400">
             <div className="absolute top-[24px] left-[32px] flex flex-row items-center justify-start gap-[18px]">
               <img
-                className="w-5 relative h-5 object-contain"
+                className="w-5 relative h-[20.3px] overflow-hidden shrink-0"
                 alt=""
-                src="/da@2x.png"
+                src="../src/assets/star.svg"
               />
               <div className="w-[389px] relative h-20">
                 <div className="absolute top-[-0.5px] left-[-0.5px] rounded-2xs bg-mintcream-100 box-border w-[124px] h-[81px] flex flex-col items-center justify-center pt-[11px] px-3 pb-2 gap-[8px] border-[0.5px] border-solid border-darkolivegreen-100">
@@ -340,7 +340,7 @@ const Desktop = () => {
               <img
                 className="absolute top-[8px] left-[0px] rounded-21xl w-[54px] h-14 overflow-hidden object-cover"
                 alt=""
-                src="/frame-2608514@2x.png"
+                src="../src/assets/photo.png"
               />
               <div className="absolute top-[8px] left-[62px] w-[171px] h-[27px]">
                 <div className="absolute top-[0.5px] left-[0px] flex flex-col items-start justify-start gap-[3px]">
@@ -362,28 +362,30 @@ const Desktop = () => {
               <img
                 className="w-5 relative h-[20.3px] overflow-hidden shrink-0"
                 alt=""
-                src="/icon.svg"
+                src="../src/assets/star.svg"
               />
               <img
                 className="w-5 relative h-[20.3px] overflow-hidden shrink-0"
                 alt=""
-                src="/icon.svg"
+                src="../src/assets/star.svg"
               />
               <img
                 className="w-5 relative h-[20.3px] overflow-hidden shrink-0"
                 alt=""
-                src="/icon1.svg"
+                src="../src/assets/star.svg"
               />
               <img
                 className="w-5 relative h-[20.3px] overflow-hidden shrink-0"
                 alt=""
-                src="/icon1.svg"
+                src="../src/assets/star.svg"
               />
               <img
                 className="w-5 relative h-[20.3px] overflow-hidden shrink-0"
                 alt=""
-                src="/icon1.svg"
+                src="../src/assets/star.svg"
               />
+
+
             </div>
             <div className="w-[475px] relative tracking-[-0.01em] leading-[24px] flex items-center">
               Might be bit early to confirm but yes I can see noticeable
@@ -400,7 +402,7 @@ const Desktop = () => {
               <img
                 className="absolute top-[8px] left-[0px] rounded-21xl w-[54px] h-14 overflow-hidden object-cover"
                 alt=""
-                src="/frame-2608514@2x.png"
+                src="../src/assets/photo.png"
               />
               <div className="absolute top-[8px] left-[62px] w-[171px] h-[27px]">
                 <div className="absolute top-[0.5px] left-[0px] flex flex-col items-start justify-start gap-[3px]">
@@ -422,32 +424,35 @@ const Desktop = () => {
               <img
                 className="w-5 relative h-[20.3px] overflow-hidden shrink-0"
                 alt=""
-                src="/icon.svg"
+                src="../src/assets/star.svg"
               />
               <img
                 className="w-5 relative h-[20.3px] overflow-hidden shrink-0"
                 alt=""
-                src="/icon.svg"
+                src="../src/assets/star.svg"
               />
               <img
                 className="w-5 relative h-[20.3px] overflow-hidden shrink-0"
                 alt=""
-                src="/icon1.svg"
+                src="../src/assets/star.svg"
               />
               <img
                 className="w-5 relative h-[20.3px] overflow-hidden shrink-0"
                 alt=""
-                src="/icon1.svg"
+                src="../src/assets/star.svg"
               />
               <img
                 className="w-5 relative h-[20.3px] overflow-hidden shrink-0"
                 alt=""
-                src="/icon1.svg"
+                src="../src/assets/star.svg"
               />
+
+
             </div>
             <div className="w-[475px] relative tracking-[-0.01em] leading-[24px] flex items-center">
               Might be bit early to confirm but yes I can see noticeable
-              difference. will write again after using it for longer periods
+              difference in my hairfall. will write again after using it for
+              longer periods
             </div>
           </div>
         </div>
@@ -480,26 +485,27 @@ const Desktop = () => {
           <div className="absolute top-[2.5px] left-[2.5px] tracking-[-0.01em] leading-[24px] font-semibold flex items-center w-6 h-[17px]">
             4.2
           </div>
-          <img
-            className="absolute top-[0px] left-[26.5px] w-5 h-[22px]"
-            alt=""
-            src="/stars.svg"
-          />
+
         </div>
         <img
           className="absolute top-[0px] left-[45px] w-5 h-[22px]"
           alt=""
-          src="/stars1.svg"
+          src="../src/assets/star.svg"
         />
         <img
           className="absolute top-[0px] left-[65px] w-5 h-[22px]"
           alt=""
-          src="/stars1.svg"
+          src="../src/assets/star.svg"
         />
         <img
           className="absolute top-[0px] left-[85px] w-5 h-[22px]"
           alt=""
-          src="/stars2.svg"
+          src="../src/assets/star.svg"
+        />
+        <img
+          className="absolute top-[0px] left-[85px] w-5 h-[22px]"
+          alt=""
+          src="../src/assets/star.svg"
         />
       </div>
       <img
@@ -536,7 +542,7 @@ const Desktop = () => {
           <img
             className="w-6 relative h-6 overflow-hidden shrink-0"
             alt=""
-            src="/materialsymbolshomeworkoutlinerounded.svg"
+            src="../src/assets/home.svg"
           />
         </div>
         <div className="flex flex-row items-start justify-center gap-[49px]">
@@ -561,7 +567,7 @@ const Desktop = () => {
           <img
             className="w-6 relative h-6 overflow-hidden shrink-0"
             alt=""
-            src="/materialsymbolshomeworkoutlinerounded.svg"
+            src="../src/assets/home.svg"
           />
         </div>
         <div className="flex flex-row items-start justify-center gap-[49px]">
@@ -584,7 +590,7 @@ const Desktop = () => {
             <img
               className="w-[84px] relative h-[78px] overflow-hidden shrink-0 object-cover"
               alt=""
-              src="/women-1@2x.png"
+              src="../src/assets/women.png"
             />
           </div>
           <div className="relative leading-[19.2px] capitalize font-medium">
@@ -596,7 +602,7 @@ const Desktop = () => {
             <img
               className="w-[84px] relative h-[78px] overflow-hidden shrink-0"
               alt=""
-              src="/skincare-1.svg"
+              src="../src/assets/skin.svg"
             />
           </div>
           <div className="relative leading-[19.2px] capitalize font-medium">
@@ -608,7 +614,7 @@ const Desktop = () => {
             <img
               className="w-[84px] relative h-[78px] overflow-hidden shrink-0"
               alt=""
-              src="/immunity-1.svg"
+              src="../src/assets/immunity.svg"
             />
           </div>
           <div className="relative leading-[19.2px] capitalize font-medium">
@@ -620,7 +626,7 @@ const Desktop = () => {
             <img
               className="w-[84px] relative h-[78px] overflow-hidden shrink-0 object-cover"
               alt=""
-              src="/hair-1@2x.png"
+              src="../src/assets/hair.png"
             />
           </div>
           <div className="relative leading-[19.2px] capitalize font-medium">

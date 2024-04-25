@@ -13,7 +13,7 @@ const Desktop1 = () => {
                         <img
                             className="w-6 relative h-6 overflow-hidden shrink-0"
                             alt=""
-                            src="/location.svg"
+                            src="../src/assets/location.svg"
                         />
                         <div className="relative tracking-[0.01em] leading-[24px]">
                             Select Location
@@ -31,7 +31,7 @@ const Desktop1 = () => {
                         <img
                             className="w-[28.2px] relative h-6"
                             alt=""
-                            src="/iconsarrow-forward-24px.svg"
+                            src="../src/assets/arrow.svg"
                         />
                     </div>
                 </div>
@@ -43,7 +43,7 @@ const Desktop1 = () => {
                     <img
                         className="w-[259px] relative h-[49px] object-cover"
                         alt=""
-                        src="/image-45@2x.png"
+                        src="../src/assets/logo.png"
                     />
                     <div className="flex flex-row items-start justify-start gap-[40px]">
                         <div className="relative leading-[140%] capitalize font-medium">
@@ -128,7 +128,7 @@ const Desktop1 = () => {
                             <img
                                 className="absolute top-[0px] left-[0px] rounded-[50%] w-[149px] h-[150px] object-cover"
                                 alt=""
-                                src="/ellipse-725@2x.png"
+                                src="../src/assets/newImage.png"
                             />
                             <div className="absolute top-[126px] left-[47px] rounded-mid [background:linear-gradient(180deg,_#0b0b0b,_rgba(11,_11,_11,_0.79))] h-7 overflow-hidden flex flex-col items-start justify-start py-1 px-3 box-border">
                                 <div className="flex flex-row items-end justify-start gap-[4px]">
@@ -153,7 +153,7 @@ const Desktop1 = () => {
                                         <img
                                             className="w-4 relative h-4 overflow-hidden shrink-0"
                                             alt=""
-                                            src="/frame2.svg"
+                                            src="../src/assets/link.svg"
                                         />
                                         <div className="relative tracking-[-0.01em] leading-[20px]">
                                             Male-Female Infertility
@@ -163,7 +163,7 @@ const Desktop1 = () => {
                                         <img
                                             className="w-6 relative h-6 overflow-hidden shrink-0"
                                             alt=""
-                                            src="/frame3.svg"
+                                            src="../src/assets/key.svg"
                                         />
                                         <div className="relative tracking-[-0.01em] leading-[20px] font-semibold">
                                             7 years of Experience
@@ -173,7 +173,7 @@ const Desktop1 = () => {
                                         <img
                                             className="w-[18px] relative h-4 object-cover"
                                             alt=""
-                                            src="/comment-1@2x.png"
+                                            src="../src/assets/message.png"
                                         />
                                         <div className="relative tracking-[-0.01em] leading-[20px]">
                                             Speaks: English, Hindi, Marathi
@@ -222,7 +222,7 @@ const Desktop1 = () => {
                             <img
                                 className="absolute top-[0px] left-[0px] rounded-[50%] w-[149px] h-[150px] object-cover"
                                 alt=""
-                                src="/ellipse-725@2x.png"
+                                src="../src/assets/newImage.png"
                             />
                             <div className="absolute top-[126px] left-[47px] rounded-mid [background:linear-gradient(180deg,_#0b0b0b,_rgba(11,_11,_11,_0.79))] h-7 overflow-hidden flex flex-col items-start justify-start py-1 px-3 box-border">
                                 <div className="flex flex-row items-end justify-start gap-[4px]">
@@ -232,7 +232,7 @@ const Desktop1 = () => {
                                     <img
                                         className="w-5 relative h-5 overflow-hidden shrink-0"
                                         alt=""
-                                        src="/materialsymbolsstar.svg"
+                                        src="../src/assets/star.svg"
                                     />
                                 </div>
                             </div>
@@ -247,7 +247,7 @@ const Desktop1 = () => {
                                         <img
                                             className="w-4 relative h-4 overflow-hidden shrink-0"
                                             alt=""
-                                            src="/frame2.svg"
+                                            src="../src/assets/link.svg"
                                         />
                                         <div className="relative tracking-[-0.01em] leading-[20px]">
                                             Male-Female Infertility
@@ -257,7 +257,7 @@ const Desktop1 = () => {
                                         <img
                                             className="w-6 relative h-6 overflow-hidden shrink-0"
                                             alt=""
-                                            src="/frame3.svg"
+                                           src="../src/assets/key.svg"
                                         />
                                         <div className="relative tracking-[-0.01em] leading-[20px] font-semibold">
                                             7 years of Experience
@@ -267,7 +267,7 @@ const Desktop1 = () => {
                                         <img
                                             className="w-[18px] relative h-4 object-cover"
                                             alt=""
-                                            src="/comment-1@2x.png"
+                                             src="../src/assets/message.png"
                                         />
                                         <div className="relative tracking-[-0.01em] leading-[20px]">
                                             Speaks: English, Hindi, Marathi
@@ -316,7 +316,7 @@ const Desktop1 = () => {
                             <img
                                 className="absolute top-[0px] left-[0px] rounded-[50%] w-[149px] h-[150px] object-cover"
                                 alt=""
-                                src="/ellipse-725@2x.png"
+                                src="../src/assets/newImage.png"
                             />
                             <div className="absolute top-[126px] left-[47px] rounded-mid [background:linear-gradient(180deg,_#0b0b0b,_rgba(11,_11,_11,_0.79))] h-7 overflow-hidden flex flex-col items-start justify-start py-1 px-3 box-border">
                                 <div className="flex flex-row items-end justify-start gap-[4px]">
@@ -341,7 +341,7 @@ const Desktop1 = () => {
                                         <img
                                             className="w-4 relative h-4 overflow-hidden shrink-0"
                                             alt=""
-                                            src="/frame2.svg"
+                                            src="../src/assets/link.svg"
                                         />
                                         <div className="relative tracking-[-0.01em] leading-[20px]">
                                             Male-Female Infertility
@@ -351,7 +351,7 @@ const Desktop1 = () => {
                                         <img
                                             className="w-6 relative h-6 overflow-hidden shrink-0"
                                             alt=""
-                                            src="/frame3.svg"
+                                            src="../src/assets/key.svg"
                                         />
                                         <div className="relative tracking-[-0.01em] leading-[20px] font-semibold">
                                             7 years of Experience
@@ -361,7 +361,7 @@ const Desktop1 = () => {
                                         <img
                                             className="w-[18px] relative h-4 object-cover"
                                             alt=""
-                                            src="/comment-1@2x.png"
+                                           src="../src/assets/message.png"
                                         />
                                         <div className="relative tracking-[-0.01em] leading-[20px]">
                                             Speaks: English, Hindi, Marathi
