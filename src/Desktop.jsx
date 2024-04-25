@@ -1,3 +1,5 @@
+import React from 'react';
+
 const Desktop = () => {
   return (
     <div className="w-full relative bg-white h-[2420px] overflow-hidden text-left text-base text-darkolivegreen-100 font-poppins">

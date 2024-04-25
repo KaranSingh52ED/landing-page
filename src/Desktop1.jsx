@@ -1,3 +1,5 @@
+import React from "react";
+
 const Desktop1 = () => {
     return (
         <div className="w-[1440px] bg-white max-w-full h-[1409px] overflow-hidden text-center text-base text-dimgray-500 font-open-sans">
